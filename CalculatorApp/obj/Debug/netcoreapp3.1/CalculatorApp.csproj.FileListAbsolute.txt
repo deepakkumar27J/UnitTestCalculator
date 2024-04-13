@@ -1,0 +1,13 @@
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Learning\ASPNET\UnitTesting\Ex_Files_ASP_Net_Core_Testing\Exercise Files\Ch02\02_01\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache

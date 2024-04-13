@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4m2cUdVNwZf6wmWfE25ZKOe+y3Tg02qFFYw7DqCXZv1z+Mg3cAZAZX2cEUJCJ1wUbTEPoKbIX4XGCpCP3NgaAQ==",
+  "success": true,
+  "projectFilePath": "F:\\Learning\\ASPNET\\UnitTesting\\Ex_Files_ASP_Net_Core_Testing\\Exercise Files\\Ch02\\02_01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
